@@ -30,7 +30,3 @@ Juego que genera letras aleatorias sin repetir para jugar al stop.
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Daence96&show_icons=true&hide_border=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Daence96&layout=compact&hide_border=true)
-
-## 📫 Cómo contactarme
-
-[LinkedIn](https://www.linkedin.com/in/daniel-cespedes-d%C3%ADaz-3092b2b7/) | [Email](mailto:daniel96ecd@hotmail.com)
