@@ -1,4 +1,4 @@
-# ¡Hola! Soy Daniel Enrique Cespedes Diaz 👋
+# ¡Hola! Soy Daniel Cespedes 👋
 
 Soy ingeniero de sistemas, me dedico al desarrollo de software y de videojuegos.
 
@@ -6,8 +6,6 @@ Soy ingeniero de sistemas, me dedico al desarrollo de software y de videojuegos.
 - 👯 Busco colaborar en proyectos de videojuegos y desarrollo de aplicaciones.
 - 💬 Pregúntame sobre Java.
 - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/daniel-cespedes-d%C3%ADaz-3092b2b7/) | [Email](mailto:daniel96ecd@hotmail.com).
-- 😄 Pronombres: El.
-- ⚡ Dato curioso: [Agrega algo interesante sobre ti].
 
 ## 🔧 Tecnologías y herramientas
 
@@ -25,13 +23,13 @@ Soy ingeniero de sistemas, me dedico al desarrollo de software y de videojuegos.
 
 ## 🚀 Proyectos Destacados
 
-### [RandomLetterGenerator](https://github.com/tu-usuario/RandomLetterGenerator)
+### [RandomLetterGenerator](https://github.com/Daence96/LetterGenerator)
 Juego que genera letras aleatorias sin repetir para jugar al stop.
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Daence96&show_icons=true&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Daence96&layout=compact&hide_border=true)
 
 ## 📫 Cómo contactarme
 
