@@ -5,7 +5,7 @@ Soy ingeniero de sistemas, me dedico al desarrollo de software y de videojuegos.
 - 🌱 Actualmente estoy aprendiendo HTML, CSS, JavaScript, React, Pixel art, y Diseño de niveles.
 - 👯 Busco colaborar en proyectos de videojuegos y desarrollo de aplicaciones.
 - 💬 Pregúntame sobre Java.
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/daniel-cespedes-d) | [Email](mailto:daniel96ecd@hotmail.com).
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/daniel-cespedes-d%C3%ADaz-3092b2b7/) | [Email](mailto:daniel96ecd@hotmail.com).
 - 😄 Pronombres: El.
 - ⚡ Dato curioso: [Agrega algo interesante sobre ti].
 
@@ -35,4 +35,4 @@ Juego que genera letras aleatorias sin repetir para jugar al stop.
 
 ## 📫 Cómo contactarme
 
-[LinkedIn](https://www.linkedin.com/in/daniel-cespedes-d) | [Email](mailto:daniel96ecd@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/daniel-cespedes-d%C3%ADaz-3092b2b7/) | [Email](mailto:daniel96ecd@hotmail.com)
